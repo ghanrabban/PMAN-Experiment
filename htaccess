@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond $1 !^(index\.php|images|css|js|wsdl.php|xajax_js|png|captcha|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]

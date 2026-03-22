@@ -1,0 +1,1297 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-10-01 00:00:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:05:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:21:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:21:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:21:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:25:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:25:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:33:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:37:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:46:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:51:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:52:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:52:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:52:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:52:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 00:52:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:00:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:12:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:13:50 --> Query error: Unknown column 'id_unit' in 'WHERE' - Invalid query: SELECT *
+FROM `area`
+WHERE `id_area` = '0'
+AND `status` = 1
+AND `id_unit` = '4'
+ERROR - 2025-10-01 01:14:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:14:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:14:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:14:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:14:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:14:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:17:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:23:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:23:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:23:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:23:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:24:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:30:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:30:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:33:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:35:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:46:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 01:54:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:15:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:17:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:17:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:25:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:27:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:27:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:28:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:34:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:48:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:49:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:54:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:56:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:56:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:57:22 --> 404 Page Not Found: ../modules/area/controllers//index
+ERROR - 2025-10-01 02:57:50 --> Severity: Notice --> Undefined variable: data /home/omib1464/public_html/application/modules/fasilitas/controllers/Fasilitas.php 1283
+ERROR - 2025-10-01 02:58:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:30 --> Severity: error --> Exception: Unable to locate the model you have specified: Model /home/omib1464/public_html/system/core/Loader.php 344
+ERROR - 2025-10-01 02:58:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:58:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 02:59:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:10 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =95 AND b.id_jenisperangkat ='364' AND a.id_unit =
+ERROR - 2025-10-01 03:01:10 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:16 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =95 AND b.id_jenisperangkat ='364' AND a.id_unit =
+ERROR - 2025-10-01 03:01:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:23 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =95 AND b.id_jenisperangkat ='364' AND a.id_unit =
+ERROR - 2025-10-01 03:01:23 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:30 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =98 AND b.id_jenisperangkat ='396' AND a.id_unit =
+ERROR - 2025-10-01 03:01:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:37 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =98 AND b.id_jenisperangkat ='396' AND a.id_unit =
+ERROR - 2025-10-01 03:01:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:40 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =98 AND b.id_jenisperangkat ='381' AND a.id_unit =
+ERROR - 2025-10-01 03:01:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:44 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=35 AND a.id_catagory =96 AND b.id_jenisperangkat ='368' AND a.id_unit =
+ERROR - 2025-10-01 03:01:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:47 --> Severity: Notice --> Undefined index: unit /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 389
+ERROR - 2025-10-01 03:01:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 8 - Invalid query: SELECT a.* 
+                                                FROM fasilitas a  
+                                                LEFT JOIN 
+                                                    fasilitas_detail b 
+                                                ON  
+                                                    b.id_fasilitas = a.id_fasilitas 
+                                                WHERE 
+                                                    a.id_area=47 AND a.id_catagory =95 AND b.id_jenisperangkat ='364' AND a.id_unit =
+ERROR - 2025-10-01 03:01:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/system/core/Exceptions.php:272) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:01:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:01:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:02:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:02:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:02:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:02:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:02:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:02:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:03:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:03:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:08:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:08:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:09:22 --> 404 Page Not Found: ../modules/area/controllers//index
+ERROR - 2025-10-01 03:09:41 --> Severity: Notice --> Undefined variable: data /home/omib1464/public_html/application/modules/fasilitas/controllers/Fasilitas.php 1283
+ERROR - 2025-10-01 03:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:12:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:14:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:15:52 --> Severity: Notice --> Trying to access array offset on value of type null /home/omib1464/public_html/application/modules/job_pm/controllers/Job_pm.php 65
+ERROR - 2025-10-01 03:16:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:16:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:16:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:16:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:16:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:16:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:16:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:17:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:17:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:18:10 --> 404 Page Not Found: ../modules/area/controllers//index
+ERROR - 2025-10-01 03:18:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:18:14 --> 404 Page Not Found: ../modules/area/controllers//index
+ERROR - 2025-10-01 03:18:31 --> Severity: Notice --> Undefined variable: data /home/omib1464/public_html/application/modules/fasilitas/controllers/Fasilitas.php 1283
+ERROR - 2025-10-01 03:19:09 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:19:09 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf1.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:19:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:19:11 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:19:11 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf2.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:19:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:19:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:21:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:21:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:21:38 --> 404 Page Not Found: ../modules/area/controllers//index
+ERROR - 2025-10-01 03:21:50 --> Severity: Notice --> Undefined variable: data /home/omib1464/public_html/application/modules/fasilitas/controllers/Fasilitas.php 1283
+ERROR - 2025-10-01 03:22:20 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:20 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf3.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:22:21 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:21 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf4.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:22:21 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:21 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf5.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:22:21 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:21 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf6.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:22:22 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:22 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf7.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:22:22 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:22 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf8.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:22:28 --> Severity: Notice --> Undefined variable: id_header /home/omib1464/public_html/application/modules/pm/controllers/Pm.php 1341
+ERROR - 2025-10-01 03:22:28 --> Query error: Column 'idpm_area' cannot be null - Invalid query: INSERT INTO `pm_area_documentasi` (`idpm_area`, `id_job`, `id_jenisperangkat`, `id_perangkat`, `id_fasilitas`, `documentasi`, `status`, `create_date`, `create_by`) VALUES (NULL, '547', '364', '96869', '65258', 'pm_ddc_5agf9.jpeg', 0, '2025-10-01', 'CHAIRUL MURSAL')
+ERROR - 2025-10-01 03:22:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/omib1464/public_html/application/modules/pm/controllers/Pm.php:1297) /home/omib1464/public_html/system/core/Common.php 573
+ERROR - 2025-10-01 03:23:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:24:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:25:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:26:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:27:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:28:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:30:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:41 --> Severity: error --> Exception: Unable to locate the model you have specified: Model /home/omib1464/public_html/system/core/Loader.php 344
+ERROR - 2025-10-01 03:34:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:34:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:42:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:46:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:50:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:51:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:52:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:52:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:54:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:57:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 03:58:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 04:04:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 04:13:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 04:13:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 04:17:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 04:32:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 04:45:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:02:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:02:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:02:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:02:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:02:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:03:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:15:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:22:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:22:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:26:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:27:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:27:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:28:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:28:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:32:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:33:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:35:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:38:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:39:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:45:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:52:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:53:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 05:56:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:01:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:06:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:10:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:10:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:10:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:11:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:12:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:14:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:14:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:18:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:20:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:21:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:13 --> Severity: Notice --> Undefined variable: dateNow /home/omib1464/public_html/application/modules/jadwal_pm/controllers/Jadwal_pm.php 70
+ERROR - 2025-10-01 06:22:13 --> Severity: Notice --> Undefined variable: shift /home/omib1464/public_html/application/modules/jadwal_pm/controllers/Jadwal_pm.php 70
+ERROR - 2025-10-01 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:22:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:24:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:24:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:27:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:28:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:29:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:29:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:30:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:30:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:31:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:32:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:32:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:33:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:35:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:46:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:46:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:47:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 06:59:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:08:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:08:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:17:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:17:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:21:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:22:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:23:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:31:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:31:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:33:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:33:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:33:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:33:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:39:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:41:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:44:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:45:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:46:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:49:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:49:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:50:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:52:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:52:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:52:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:53:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:54:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:54:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:54:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:54:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:54:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:54:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:56:41 --> Severity: Notice --> Trying to access array offset on value of type null /home/omib1464/public_html/application/modules/tindaklanjut/controllers/Tindaklanjut.php 321
+ERROR - 2025-10-01 07:57:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:57:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 07:58:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:01:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:02:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:02:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:03:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:06:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:06:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:06:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:06:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:06:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:06:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:07:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:09:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:10:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:10:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:16:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:16:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:18:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:19:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:22:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:26:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:26:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:30:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:32:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:32:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:33:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:33:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:34:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:01 --> Severity: error --> Exception: Could not open  for reading! File does not exist. /home/omib1464/public_html/application/third_party/PHPExcel/Reader/Excel2007.php 82
+ERROR - 2025-10-01 08:37:07 --> Severity: error --> Exception: Could not open  for reading! File does not exist. /home/omib1464/public_html/application/third_party/PHPExcel/Reader/Excel2007.php 82
+ERROR - 2025-10-01 08:37:09 --> Severity: error --> Exception: Could not open  for reading! File does not exist. /home/omib1464/public_html/application/third_party/PHPExcel/Reader/Excel2007.php 82
+ERROR - 2025-10-01 08:37:12 --> Severity: error --> Exception: Could not open  for reading! File does not exist. /home/omib1464/public_html/application/third_party/PHPExcel/Reader/Excel2007.php 82
+ERROR - 2025-10-01 08:37:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:37:44 --> Query error: Unknown column 'id_unit' in 'WHERE' - Invalid query: SELECT *
+FROM `area`
+WHERE `id_area` = '0'
+AND `status` = 1
+AND `id_unit` = '4'
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:38:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:39:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:40:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:41:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:41:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:41:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:42:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:45:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:49:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:50:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:52:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:52:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:53:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:55:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:55:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:56:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:57:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 08:59:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:00:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:07:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:07:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:07:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:08:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:09:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:09:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:09:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:18:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:20:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:22:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:26:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:27:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:29:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:31:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:36:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:38:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:40:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:42:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:43:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:45:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:47:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:47:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:47:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:48:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:49:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:54:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:55:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:56:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:58:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:59:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 09:59:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:05:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:05:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:05:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:05:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:06:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:08:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:09:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:11:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:14:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:15:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:18:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:19:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:19:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:19:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:20:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:20:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:20:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:23:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:23:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:24:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:24:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:25:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:28:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:28:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:29:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:33:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:34:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:35:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:37:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:38:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:38:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:42:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:42:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:42:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:42:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:42:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:42:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:45:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:45:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:45:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:45:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:50:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:51:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:51:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:54:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:56:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:56:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:56:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:56:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:56:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:58:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:58:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:58:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 10:58:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:03:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:06:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:12:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:15:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:17:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:18:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:18:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:24:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:30:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:33:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:36:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:41:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:44:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:46:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:47:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:49:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:49:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:50:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:51:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:54:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:54:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 11:59:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:02:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:02:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:03:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:06:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:06:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:07:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:09:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:11:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:13:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:17:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:18:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:21:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:22:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:25:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:27:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:31:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:31:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:31:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:35:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:35:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:36:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:36:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:38:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:40:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:40:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:44:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:44:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:45:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:46:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:46:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:48:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:49:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:50:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:50:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:50:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:51:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:51:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:52:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:54:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:57:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 12:57:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:01:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:01:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:02:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:06:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:09:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:13:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:15:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:16:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:17:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:18:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:19:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:19:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:22:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:25:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:26:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:28:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:29:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:31:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:34:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:34:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:36:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:36:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:37:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:37:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:39:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:40:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:41:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:41:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:44:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:45:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:45:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:47:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:47:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:52:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:54:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:55:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 13:58:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:00:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:03:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:04:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:09:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:10:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:11:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:14:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:14:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:18:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:18:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:23:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:24:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:26:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:27:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:30:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:30:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:31:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:33:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:34:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:34:28 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:34:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:34:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:35:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:36:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:37:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:37:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:41:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:43:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:43:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:44:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:49:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:49:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:51:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:51:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:53:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:56:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 14:57:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:03:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:05:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:06:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:10:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:12:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:12:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:14:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:17:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:17:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:21:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:21:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:22:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:22:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:29:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:33:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:36:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:37:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:38:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:38:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:38:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:39:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:40:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:42:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:44:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:44:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:44:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:45:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:49:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:49:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:52:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:53:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:54:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:56:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:57:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:57:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 15:57:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:02:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:03:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:03:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:06:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:08:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:09:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:09:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:11:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:13:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:13:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:16:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:18:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:18:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:18:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:18:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:25:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:28:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:28:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:28:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:28:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:29:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:29:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:30:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:33:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:33:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:33:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:33:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:33:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:37:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:37:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:41:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:41:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:41:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:42:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:43:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:43:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:44:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:45:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:45:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:46:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:46:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:47:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:48:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:49:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:49:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:50:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:52:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:52:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:52:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:54:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:58:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 16:58:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:01:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:02:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:02:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:02:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:02:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:06:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:06:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:08:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:10:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:12:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:13:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:16:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:17:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:21:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:21:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:21:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:23:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:24:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:27:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:32:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:40:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:41:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:55:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:56:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 17:58:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:01:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:01:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:04:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:04:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:04:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:07:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:08:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:08:04 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:12:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:12:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:13:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:13:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:13:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:14:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:15:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:17:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:19:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:20:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:20:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:22:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:24:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:25:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:26:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:27:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:28:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:30:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:32:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:32:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:33:01 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:34:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:35:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:36:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:36:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:38:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:38:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:38:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:38:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:39:56 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:40:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:40:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:41:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:42:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:42:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:42:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:42:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:45:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:45:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:45:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:46:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:47:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:50:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:51:57 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:52:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:53:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:55:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:58:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:59:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 18:59:27 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:00:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:00:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:00:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:00:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:02:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:02:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:03:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:04:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:07:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:17:31 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:17:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:19:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:48 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:22:51 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:27:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:37:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:40:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:43:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:44:10 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:46:26 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:47:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:47:14 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:47:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:54:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:54:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:55:25 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 19:56:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:00:29 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:01:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:02:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:53 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:05:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:06:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:08:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:15:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:16:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:16:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:16:06 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:33 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:36 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:17:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:18:30 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:27:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:29:09 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:29:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:29:12 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:29:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:33:45 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:36:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:37:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:37:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:41:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:41:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:41:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:45:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:45:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:45:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:48:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:49:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:49:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:49:38 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 20:55:00 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:01:20 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:03:49 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:05:24 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:06:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:12:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:12:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:12:07 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:12:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:13:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:13:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:13:13 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:13:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:13:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:13:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:23:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:25:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:26:21 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:26:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:29:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:42:35 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:42:37 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:42:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:42:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:42:43 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:47:42 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:47:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:47:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:47:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 21:55:46 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:03:58 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:12:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:13:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:13:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:16:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:19:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:24:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:24:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:26:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:30:23 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:31:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 22:46:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:05:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:05:05 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:07:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:08:40 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:09:03 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:09:11 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:09:17 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:09:34 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:09:54 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:10:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:10:59 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:14:18 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:16:32 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:25:44 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:27:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:27:39 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:35:52 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:49:47 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:50:02 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:50:50 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:15 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:51:16 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:56:55 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:57:22 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:57:41 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:59:08 --> 404 Page Not Found: /index
+ERROR - 2025-10-01 23:59:40 --> 404 Page Not Found: /index

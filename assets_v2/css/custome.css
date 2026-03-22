@@ -1,0 +1,205 @@
+/* css for loading page */
+.spin-loader {
+    -webkit-animation: spin 1s linear infinite;
+    animation: spin 1s linear infinite;
+    border: 8px solid #eef3fa;
+    border-top: 8px solid rgba(80, 140, 215, 0.25);
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+    }
+    @-webkit-keyframes spin {
+    to {
+    transform: rotate(360deg);
+    }
+    }
+    @keyframes spin {
+    to {
+    transform: rotate(360deg);
+    }
+    }
+    .is-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: calc(100vh - 64px);
+    }
+    #spinner {
+    position: fixed;
+    top: 0; left: 0; z-index: 9999;
+    width: 100vw; height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 0.2s;
+    align-items: center;
+    justify-content: center;
+    }
+    #spinner {
+    visibility: hidden;
+    opacity: 0;
+    }
+    #spinner.show {
+    visibility: visible;
+    opacity: 1;
+    }
+    /* End Css  Spiner */
+
+    /* CSS Select2 */
+   
+   .select2-container {
+        width: 100%;
+        border: 1px solid #ccc;
+    }
+
+    .select2-container--bootstrap .select2-selection--single {
+          width: 300px;
+    }
+    .select2-dropdown--scroll {
+      max-height: 200px; 
+      overflow-y: auto; 
+    }
+
+    .select2-dropdown--scroll::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+
+
+    .select2-dropdown--scroll:hover::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+
+ 
+    .select2-dropdown--scroll::-webkit-scrollbar-track {
+        background: #f1f1f1;
+    }
+
+
+    .select2-dropdown--scroll::-webkit-scrollbar-thumb {
+        background: #888;
+    }
+
+
+    .select2-dropdown--scroll::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+ /* END CSS Select2 */
+
+ /* Css Modal Fullscrean */
+ @media (max-width: 575.98px) {
+    .modal-fullscreen {
+       padding: 0 !important;
+    }
+    .modal-fullscreen .modal-dialog {
+       width: 100%;
+       max-width: none;
+       height: 100%;
+       margin: 0;
+    }
+    .modal-fullscreen .modal-content {
+       height: 100%;
+       border: 0;
+       border-radius: 0;
+    }
+    .modal-fullscreen .modal-body {
+       overflow-y: auto;
+    }
+}
+ .modal-fullscreen-xl {
+    padding: 0 !important;
+ }
+ .modal-fullscreen-xl .modal-dialog {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    margin: 0;
+ }
+ .modal-fullscreen-xl .modal-content {
+    height: 100%;
+    border: 0;
+    border-radius: 0;
+ }
+ .modal-fullscreen-xl .modal-body {
+       overflow-y: auto;
+ }
+
+ .btn-open-modal {
+    margin-bottom: 0.5em;
+ }
+ .mb-10 {
+   margin-bottom: 10px;
+  }
+  .pointer {
+   cursor: pointer;
+}
+.hiddenRow {
+padding: 0 !important;
+}
+.form-group {
+ margin-bottom: 0.50em;
+}
+
+.lg-stat{
+ width: 15px;
+ height: 15px;
+ border-radius: 50%;
+}
+.align-middle {
+ padding-top: 2px;
+
+ padding-left: 10px;
+}
+.modal-black{
+ background-color: #131a22;
+}
+.modal-wt {
+ color: #fff;
+}
+.pd-2{
+ padding-left: 5px;
+ padding-right: 5px;
+}
+.label-primary {
+background: #4e79a7;
+}
+.label-success {
+background: #59a14f;
+}
+.label-danger {
+background: #e15759;
+}
+td, th {
+white-space: normal;
+}
+.btn.btn-icon2 {
+ width: 35px;
+ line-height: 20px;
+ height: 35px;
+ padding: 8px;
+ text-align: center;
+}
+.table-bordered {
+border: 1px solid #EBEBEB;
+}
+table {
+
+border-spacing: 2px;
+}
+.table-bordered td, .table-bordered th {
+ padding: 10px;
+}
+.table .thead-dark th {
+ color: #fff;
+ background-color: #878888b8;
+ border-color: #878d93f5;
+}
+.putih{
+ color: #fff;
+}
+.merah{
+ color: #fc0303;
+}
+
+/* End Css modal  */
+

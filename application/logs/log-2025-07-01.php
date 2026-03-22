@@ -1,0 +1,541 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-07-01 08:23:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\pm_fids\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2025-07-01 08:23:50 --> Unable to connect to the database
+ERROR - 2025-07-01 08:24:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\pm_fids\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2025-07-01 08:24:11 --> Unable to connect to the database
+ERROR - 2025-07-01 08:24:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:24:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:24:34 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:24:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:24:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:24:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:24:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:28:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:28:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:28:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:28:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:28:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:28:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:29:53 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:29:53 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:30:50 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:50 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:30:58 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:30:58 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:32:04 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:32:04 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:34:38 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:34:38 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:35:22 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:35:22 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:35:23 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:35:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:35:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:35:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:37:25 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:37:25 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:41:50 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:41:50 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:43:08 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:43:08 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:44:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 08:51:19 --> Severity: Notice --> Undefined variable: dateNow C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 08:51:19 --> Severity: Notice --> Undefined variable: shift C:\xampp\htdocs\pm_fids\application\modules\jadwal_pm\controllers\Jadwal_pm.php 70
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:06:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:10:38 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:32 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:26:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:27:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:28:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:28:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:28:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:28:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 09:28:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 10:46:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 10:46:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 10:46:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 10:46:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 10:46:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 10:46:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:42:59 --> Severity: Notice --> Undefined index: type_user C:\xampp\htdocs\pm_fids\application\helpers\menu_helper.php 7
+ERROR - 2025-07-01 13:42:59 --> Severity: Notice --> Undefined index: type_user C:\xampp\htdocs\pm_fids\application\helpers\menu_helper.php 10
+ERROR - 2025-07-01 13:42:59 --> Severity: Notice --> Undefined index: unit C:\xampp\htdocs\pm_fids\application\third_party\MX\Loader.php(347) : eval()'d code 296
+ERROR - 2025-07-01 13:42:59 --> Severity: Notice --> Undefined index: type_user C:\xampp\htdocs\pm_fids\application\third_party\MX\Loader.php(347) : eval()'d code 161
+ERROR - 2025-07-01 13:42:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:01 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:01 --> Severity: Notice --> Undefined index: type_user C:\xampp\htdocs\pm_fids\application\modules\user\controllers\User.php 139
+ERROR - 2025-07-01 13:43:01 --> Severity: Notice --> Undefined index: unit C:\xampp\htdocs\pm_fids\application\modules\user\controllers\User.php 142
+ERROR - 2025-07-01 13:43:04 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:05 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:05 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:05 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:05 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:05 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:05 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:21 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:21 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:22 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:22 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:22 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:26 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:27 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:43:27 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:53 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:53 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:53 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:53 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:48:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:22 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:25 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:25 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:25 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 13:49:25 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:41 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:43 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:43 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:06:43 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:02 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:02 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:02 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:02 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:03 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:03 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:03 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:09:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:10:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:39 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:39 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:39 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:39 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:39 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:40 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:40 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:11:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:12:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:07 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:07 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:13:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:31 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:32 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:32 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:33 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:50 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:50 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:50 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:51 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:19:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:00 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:08 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:20:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:22:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:24:30 --> Query error: Table 'pman.user1' doesn't exist - Invalid query: SELECT *
+FROM `user1`
+WHERE `nik` = '241202013614'
+ERROR - 2025-07-01 14:27:34 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 334
+ERROR - 2025-07-01 14:27:34 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 335
+ERROR - 2025-07-01 14:27:34 --> Severity: error --> Exception: Invalid cell coordinate BKK C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 43
+ERROR - 2025-07-01 14:27:39 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 334
+ERROR - 2025-07-01 14:27:39 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 335
+ERROR - 2025-07-01 14:27:39 --> Severity: error --> Exception: Invalid cell coordinate BKK C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 43
+ERROR - 2025-07-01 14:27:43 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 334
+ERROR - 2025-07-01 14:27:43 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 335
+ERROR - 2025-07-01 14:27:43 --> Severity: error --> Exception: Invalid cell coordinate BKK C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 43
+ERROR - 2025-07-01 14:27:48 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:49 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:27:57 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 334
+ERROR - 2025-07-01 14:27:57 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 335
+ERROR - 2025-07-01 14:27:57 --> Severity: error --> Exception: Invalid cell coordinate BKK C:\xampp\htdocs\pm_fids\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php 43
+ERROR - 2025-07-01 14:29:42 --> Query error: Table 'pman.user1' doesn't exist - Invalid query: SELECT *
+FROM `user1`
+WHERE `nik` = '241202013614'
+ERROR - 2025-07-01 14:30:11 --> Query error: Unknown column 'col' in 'field list' - Invalid query: UPDATE `jadwal_kerja` SET `tanggal` = '2025-7-02', `id_user` = '417', `shift` = 'D', `id_unit` = '5', `col` = 3, `row` = 8
+WHERE `id_jadwal_kerja` = '1'
+ERROR - 2025-07-01 14:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:24 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:29 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:29 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:29 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:30 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:30 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:30 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:30 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:47 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:47 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:48 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:48 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:48 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:48 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:48 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:30:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:12 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:31:13 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:32:59 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:33:00 --> Query error: Unknown column 'a.tanggal1' in 'where clause' - Invalid query:  SELECT b.nama,b.jabatan,b.nik,b.no_hp,a.* FROM jadwal_kerja a left join user b on b.id = a.id_user where a.tanggal1 ='2025-07-01' and a.shift= 'PS' AND b.type_user in ('1','5') AND b.unit_kerja ='5'  AND b.id_lokasi = '1'
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:46 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:46 --> Query error: Unknown column 'a.tanggal1' in 'where clause' - Invalid query:  SELECT b.nama,b.jabatan,b.nik,b.no_hp,a.* FROM jadwal_kerja a left join user b on b.id = a.id_user where a.tanggal1 ='2025-07-01' and a.shift= 'PS' AND b.type_user in ('1','5') AND b.unit_kerja ='5'  AND b.id_lokasi = '1'
+ERROR - 2025-07-01 14:38:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:54 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:55 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 14:38:58 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:07:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:25 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:27 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:27 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:27 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:27 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:28 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:28 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:41 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:42 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:43 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:43 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:43 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:44 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:10:45 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:11:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:09 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:10 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:11 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:19 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:12:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:17 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:18 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:13:20 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:14 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:15 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:15:16 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:35 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:37 --> 404 Page Not Found: /index
+ERROR - 2025-07-01 15:22:38 --> Query error: Unknown column 'b.nama1' in 'field list' - Invalid query:  SELECT b.nama1,b.jabatan,b.nik,b.no_hp,a.* FROM jadwal_kerja a left join user b on b.id = a.id_user where a.tanggal ='2025-07-01' and a.shift= 'PS' AND b.type_user in ('1','5') AND b.unit_kerja ='4'  AND b.id_lokasi = '2'
